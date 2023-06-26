@@ -1,0 +1,375 @@
+
+
+@media (max-width:1024px){
+    .foot-item {
+        margin: 0 20px;
+        font-size: 11px;
+    }
+}
+@media (max-width:999.99px){
+    .logo {
+        max-width: 185px;
+    }
+    .navbar-light .navbar-nav .nav-link::after{
+        display: none;
+    }
+    .tablet{
+        margin: auto;
+    }
+    .mail-box img {
+        width: 100%;
+    margin-top: 40px;}
+    .nav-item {
+        text-align: center;
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .hero-text, .heading {
+        font-size: 32px;
+    }
+    .head-cont-wrap {
+        text-align: center;
+    }
+    .x-icon {
+       
+    }
+    .download{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .reg{
+        margin-left: 0;
+    }
+    .diamond {
+        max-width: 16px;
+        margin-right: 5px;
+    }
+    .primary-button{
+        padding: 10px 25px;
+    }
+    #features{
+        display: none;
+    }
+    #features-responsve{
+        display: inherit;
+        padding: 50px 0;
+    }
+    .sm-card-1{
+        margin-bottom: 30px;
+    }
+    #game-card{
+        padding: 30px 0;
+    }
+    .card-wrap{
+        margin-bottom: 50px;
+    }
+    .reg-text {
+        text-align: center;
+        margin: 40px 0;
+    }
+    .reg-row {
+        flex-direction: column-reverse;
+    }
+    .com-text {
+        margin-left: 0;
+        text-align: center;
+        margin: 40px 0;
+    }
+    .com-row{
+        flex-direction: column;
+    }
+    .laptop-screen {
+        margin-top: 40px;
+    }
+    .contact-wrap {
+        padding: 20px;
+        text-align: center;
+    }
+    .icon-wrap img {
+        max-width: 20px;
+    }
+    .radius-box {
+        height: 30px;
+        width: 30px;
+    }
+    .nav-button {
+      margin-left: 0; 
+        margin: auto;
+        margin-top: 20px;
+    }
+    .dia-btn{
+        padding: 12px;
+    }
+    .foot-nav{
+        display: none;
+    }
+    .mobile{
+       background-color: rgba(0, 0, 0, 0.425);
+        min-height: 100vh;
+    }
+    #header-section{
+        display: none;
+    }
+    #header-section-responsive{
+        display: inherit;
+        background-color: #1B0632;
+        background-image: url(../images/hero-2.png);
+        background-position: center;
+        background-size: 40rem;
+        background-repeat: no-repeat;
+        min-height: 100vh;
+            
+    }
+    .card-cont{
+        margin: 0 0 30px 0;
+    }
+    .x-small{
+        position: absolute;
+        top: 16%;max-width: 20px;left: 6%;}
+        .x-meduim{
+        position: absolute;
+        left: 92%;top: 23%;max-width: 26px;}
+        .x-big{
+        position: absolute;
+        right: 33%;max-width: 14px;top: 81%;}
+        .x-md{
+        position: absolute;
+        left: 68%;max-width: 15px;top: 20%;}
+        .x-s{
+        position: absolute;
+        left: 14%;max-width: 15px;top: 42%;}
+        .x-ss{
+        position: absolute;
+        left: 36%;top: 89%;max-width: 12px;}
+        .x-xm{
+        position: absolute;
+        right: 4%;top: 79%;max-width: 29px;}
+        .x-xxl{
+        position: absolute;
+        left: 6%;max-width: 24px;}
+        
+        .f-s{
+        position: absolute;
+        right: 6%;max-width: 20px;bottom: 5%;}
+        .f-m{
+        position: absolute;
+        top: 14%;left: 41%;max-width: 11px;}
+        .f-b{
+        position: absolute;
+        top: -5%;max-width: 23px;left: 5%;}
+        .f-md{
+        position: absolute;
+        top: 9%;right: 5%;max-width: 17px;}
+        
+        .x-s1{
+        position: absolute;
+        top: 10%;max-width: 17px;left: 6%;}
+        .x-s2{
+        position: absolute;
+        top: 3%;left: 34%;max-width: 17px;}
+        .x-s3{
+        position: absolute;
+        top: 12%;right: 4%;max-width: 21px;}
+        .x-s4{
+        position: absolute;
+        bottom: 11%;left: 4%;max-width: 23px;}
+        .x-s5{
+        position: absolute;
+        top: 37%;left: 20%;max-width: 20px;}
+        .x-s6{
+        position: absolute;
+        bottom: 44%;left: 50%;max-width: 17px;}
+        .x-s7{
+        position: absolute;
+        bottom: 5%;left: 33%;max-width: 8px;}
+        .x-s8{
+        position: absolute;
+        bottom: 23%;right: 4%;max-width: 22px;}
+        
+        
+        .c-s1{
+        right: 15%;position: absolute;
+        top: 29%;max-width: 17px;}
+        .c-s2{
+        position: absolute;
+        top: 18%;left: 34%;max-width: 20px;}
+        .c-s3{
+        bottom: 12%;position: absolute;
+        right: 11%;max-width: 22px;}
+        .c-s4{
+        position: absolute;
+        top: 11%;left: 4%;max-width: 23px;}
+        .c-s5{
+        position: absolute;
+        bottom: 5%;max-width: 11px;right: 35%;}
+        .c-s6{
+        position: absolute;
+        bottom: 35%;left: 13%;max-width: 10px;}
+        
+        .m-s1{
+        right: 14%;position: absolute;
+        top: 13%;max-width: 23px;}
+        .m-s2{
+        position: absolute;
+        top: 15%;left: 12%;max-width: 14px;}
+        .m-s3{
+        bottom: 26%;position: absolute;
+        right: 16%;max-width: 24px;}
+        .m-s4{
+        position: absolute;
+        bottom: 10%;left: 14%;max-width: 16px;}
+        .m-s5{
+        position: absolute;
+        bottom: 64%;max-width: 22px;left: 40%;
+        position: absolute;
+        bottom: 35%;left: 52%;max-width: 10px;
+        }
+        
+        
+        .a-s1{
+        right: 14%;position: absolute;
+        top: 13%;max-width: 23px;}
+        .a-s2{
+        position: absolute;
+        top: 8%;left: 12%;max-width: 23px;}
+        .a-s3{
+        bottom: 21%;position: absolute;
+        right: 12%;max-width: 29px;}
+        .a-s4{
+        position: absolute;
+        max-width: 16px;right: 50%;top: 95%;}
+        .a-s5{
+        
+        
+        position: absolute;
+        left: 15%;top: 51%;max-width: 21px;
+        }
+        .a-s6{
+        position: absolute;
+        left: 54%;top: 25%;max-width: 40px;}
+        
+        .f-s1{
+        right: 22%;position: absolute;
+        top: 69%;max-width: 26px;}
+        .f-s2{
+        position: absolute;
+        left: 26%;bottom: 19%;max-width: 13px;}
+}
+
+@media (max-width:575px){
+    .logo {
+        max-width: 185px;
+    }
+    .card-cont{
+        margin: 0 0 30px 0;
+    }
+    .navbar-light .navbar-nav .nav-link::after{
+        display: none;
+    }
+    .mail-box img {
+        width: 100%;
+    margin-top: 40px;}
+    .nav-item {
+        text-align: center;
+        margin-bottom: 10px;
+        padding: 0;
+    }
+    .hero-text, .heading {
+        font-size: 32px;
+    }
+    .head-cont-wrap {
+        text-align: center;
+    }
+    .x-icon {
+        display: none;
+    }
+    .download{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .reg{
+        margin-left: 0;
+    }
+    .diamond {
+        max-width: 16px;
+        margin-right: 5px;
+    }
+    .primary-button{
+        padding: 10px 25px;
+    }
+    #features{
+        display: none;
+    }
+    #features-responsve{
+        display: inherit;
+        padding: 50px 0;
+    }
+    .sm-card-1{
+        margin-bottom: 30px;
+    }
+    #game-card{
+        padding: 30px 0;
+    }
+    .card-wrap{
+        margin-bottom: 50px;
+    }
+    .reg-text {
+        text-align: center;
+        margin: 40px 0;
+    }
+    .reg-row {
+        flex-direction: column-reverse;
+    }
+    .com-text {
+        margin-left: 0;
+        text-align: center;
+        margin: 40px 0;
+    }
+    .com-row{
+        flex-direction: column;
+    }
+    .laptop-screen {
+        margin-top: 40px;
+    }
+    .contact-wrap {
+        padding: 20px;
+        text-align: center;
+    }
+    .icon-wrap img {
+        max-width: 20px;
+    }
+    .radius-box {
+        height: 30px;
+        width: 30px;
+    }
+    .nav-button {
+      margin-left: 0; 
+        margin: auto;
+        margin-top: 20px;
+    }
+    .dia-btn{
+        padding: 12px;
+    }
+    .foot-nav{
+        display: none;
+    }
+    .mobile{
+       background-color: rgba(0, 0, 0, 0.425);
+        min-height: 100vh;
+    }
+    #header-section{
+        display: none;
+    }
+    #header-section-responsive{
+        display: inherit;
+        background-color: #1B0632;
+        background-image: url(../images/hero-2.png);
+        background-position: center;
+        background-size: 40rem;
+        background-repeat: no-repeat;
+        min-height: 100vh;
+            
+    }
+}
