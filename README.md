@@ -1,2 +1,2 @@
-- Live Link -
+- Live Link - https://paradise-gaming-chowon-hasan.netlify.app/
 - Designed by - Chowon Hasan
